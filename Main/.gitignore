@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+*.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Uploaded or generated files
+temp_doc/
+uploads/
+*.pdf
+*.docx
+*.txt
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# PyMuPDF cache
+*.xoj
+*.xojbackup
+
+# Wordcloud temp files
+wordcloud.png
+
+# Environment variable or secret files
+.env
+
+# Compiled files or other artifacts
+dist/
+build/
+*.egg-info/

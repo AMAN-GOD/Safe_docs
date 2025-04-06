@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+wordcloud
+scikit-learn
+PyMuPDF
+python-docx
+Pillow
+pytesseract
+opencv-python
+numpy
